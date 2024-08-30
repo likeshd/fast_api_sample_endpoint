@@ -6,4 +6,4 @@ asyncpg==0.27.0  # Required for asynchronous PostgreSQL database operations
 httpx==0.25.1  # Required for asynchronous HTTP client requests
 requests==2.31.0  # Required for synchronous HTTP client requests
 python-dotenv==1.0.0  # Required for managing environment variables
-starlette==0.31.1  # FastAPI’s underlying framework for handling requests and middleware
+starlette==0.27.0  # FastAPI’s underlying framework for handling requests and middleware
